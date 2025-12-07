@@ -1,0 +1,120 @@
+{
+  "version": 1,
+  "base_track": "ガーベラ",
+  "base_artist": "Mucc",
+  "createdAt": "2025-12-07T08:04:27.301642Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ガーベラ",
+      "artist": "フュンガフント",
+      "has_synced": false,
+      "path": "select/01_ガーベラ_フュンガフント.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ガーベラ",
+      "artist": "伊藤美来",
+      "has_synced": true,
+      "path": "select/02_ガーベラ_伊藤美来.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "ガーベラ",
+      "artist": "MUCC",
+      "has_synced": false,
+      "path": "select/03_ガーベラ_MUCC.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "ガーベラ surf ver.",
+      "artist": "ムック",
+      "has_synced": false,
+      "path": "select/04_ガーベラ_surf_ver._ムック.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "ガーベラ",
+      "artist": "ムック",
+      "has_synced": false,
+      "path": "select/05_ガーベラ_ムック.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "ガーベラ -surf ver.-",
+      "artist": "ムック",
+      "has_synced": false,
+      "path": "select/06_ガーベラ_-surf_ver.-_ムック.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "ガーベラ surf ver.",
+      "artist": "MUCC",
+      "has_synced": false,
+      "path": "select/07_ガーベラ_surf_ver._MUCC.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ガーベラ",
+      "artist": "ムック",
+      "has_synced": false,
+      "path": "select/pl_01_ガーベラ_ムック.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "ガーベラ",
+      "artist": "ムック",
+      "has_synced": false,
+      "path": "select/pl_02_ガーベラ_ムック.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "ガーベラ",
+      "artist": "ムック",
+      "has_synced": false,
+      "path": "select/pl_03_ガーベラ_ムック.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "ガーベラ",
+      "artist": "ムック",
+      "has_synced": false,
+      "path": "select/pl_04_ガーベラ_ムック.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "ガーベラ",
+      "artist": "ムック",
+      "has_synced": false,
+      "path": "select/pl_05_ガーベラ_ムック.txt"
+    },
+    {
+      "id": "petitlyrics_6",
+      "source": "petitlyrics",
+      "title": "ガーベラ",
+      "artist": "ムック",
+      "has_synced": false,
+      "path": "select/pl_06_ガーベラ_ムック.txt"
+    },
+    {
+      "id": "petitlyrics_7",
+      "source": "petitlyrics",
+      "title": "ガーベラ -Timeless Ver.-",
+      "artist": "ムック",
+      "has_synced": false,
+      "path": "select/pl_07_ガーベラ_-Timeless_Ver.-_ムック.txt"
+    }
+  ]
+}
